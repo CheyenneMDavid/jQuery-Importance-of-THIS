@@ -23,3 +23,11 @@
     padding: 20px;
     background-color: #fff;
 }
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBlue {
+    background-color: blue;
+}
